@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-04 02:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../liberdns.desktop.in.h:1 ../liberdns-autostart.desktop.in.h:1
+msgid "Liber Open DNS Update Applet"
+msgstr ""
+
+#: ../liberdns.desktop.in.h:2 ../liberdns-autostart.desktop.in.h:2
+msgid "Liber Open DNS Update tool system tray"
+msgstr ""
+
+#: ../liberdns.py:73
+msgid "Liber DNS Applet"
+msgstr ""
+
+#: ../liberdns.py:75
+msgid "Copyright (c) 2008-2011 Ojuba team <core@ojuba.org>"
+msgstr ""
+
+#: ../liberdns.py:76
+msgid "Update Open DNS service address"
+msgstr ""
+
+#: ../liberdns.py:79
+msgid "WWW Web site"
+msgstr ""
+
+#: ../liberdns.py:96
+msgid "Liber DNS Update Preferences"
+msgstr ""
+
+#: ../liberdns.py:97
+msgid "Cancel"
+msgstr ""
+
+#: ../liberdns.py:98
+msgid "Save"
+msgstr ""
+
+#: ../liberdns.py:103
+msgid "Auto start"
+msgstr ""
+
+#: ../liberdns.py:106
+msgid "Show notifications"
+msgstr ""
+
+#: ../liberdns.py:110
+msgid "User name:"
+msgstr ""
+
+#: ../liberdns.py:115
+msgid "Password:"
+msgstr ""
+
+#: ../liberdns.py:121
+msgid "Nerwork Name:"
+msgstr ""
+
+#: ../liberdns.py:126
+msgid "Time:"
+msgstr ""
+
+#: ../liberdns.py:130
+msgid "Minutes"
+msgstr ""
+
+#: ../liberdns.py:152 ../liberdns.py:159
+msgid "Liber DNS Update"
+msgstr ""
+
+#: ../liberdns.py:161
+msgid "Liber DNS Update...."
+msgstr ""
+
+#: ../liberdns.py:191
+msgid "Update Now"
+msgstr ""
+
+#: ../liberdns.py:215
+msgid "Liber NDS update Failed!"
+msgstr ""
+
+#: ../liberdns.py:217
+msgid "Set your Configuration frist"
+msgstr ""
+
+#: ../liberdns.py:227
+msgid "Last stat"
+msgstr ""

@@ -1,0 +1,41 @@
+LiberDNS Applet
+  Liber DNS update tool
+
+- Install.
+- Ununstal.
+- Chang log.
+
+-Install:
+  Use command ( as root )
+    make install
+
+-Uninstall:
+  Use command ( as root )
+    make uninstall
+         
+- Change log:
+  * Tue Nov 04 2011  Ehab El-Gedawy <ehabsas@gmail.com> - 0.1.4
+  - Add ARTISTS.
+  - Fix python Interpreter for ArchLinux users.
+  
+  * Tue Nov 03 2011  Ehab El-Gedawy <ehabsas@gmail.com> - 0.1.3
+  - Add about.
+  - Fix timer bug.
+  - Use one nofication object.
+  - Fix Makefile install and unainstall sections.
+  
+  * Tue Nov 02 2011  Ehab El-Gedawy <ehabsas@gmail.com> - 0.1.2
+  - Fix autostart.
+  - Add COPYING AUTHORS README.
+  - Translate TODO.
+
+  * Tue Nov 01 2011  Ehab El-Gedawy <ehabsas@gmail.com> - 0.1.1
+  - Change file names.
+  - Change utility name to liberdns.
+  - Add Arabic translate.
+  - Fix python Interpreter for ArchLinux users.
+  - Add DBus service.
+
+  * Mon Oct 31 2011  Ehab El-Gedawy <ehabsas@gmail.com> - 0.1.0
+  - Initial packing
+

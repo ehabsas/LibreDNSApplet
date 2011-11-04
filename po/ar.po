@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenDNS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-04 02:00+0200\n"
+"PO-Revision-Date: 2011-10-31 07:05+0200\n"
+"Last-Translator: Ehab El-Gedawy <ehabsas@gmail.com>\n"
+"Language-Team: Arabic <ar@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../liberdns.desktop.in.h:1 ../liberdns-autostart.desktop.in.h:1
+msgid "Liber Open DNS Update Applet"
+msgstr "بريمج تحديث DNS الحر"
+
+#: ../liberdns.desktop.in.h:2 ../liberdns-autostart.desktop.in.h:2
+msgid "Liber Open DNS Update tool system tray"
+msgstr "بريمج تحديث DNS الحر فى صينية النظام"
+
+#: ../liberdns.py:73
+msgid "Liber DNS Applet"
+msgstr "تحديث DNS الحر"
+
+#: ../liberdns.py:75
+msgid "Copyright (c) 2008-2011 Ojuba team <core@ojuba.org>"
+msgstr "جميع الحقوق محفوظة لفريق أعجوبة  2008-2011<core@ojuba.org>"
+
+#: ../liberdns.py:76
+msgid "Update Open DNS service address"
+msgstr "تحديث عنوان خدمة Open DNS"
+
+#: ../liberdns.py:79
+msgid "WWW Web site"
+msgstr "موقع البريمج"
+
+#: ../liberdns.py:96
+msgid "Liber DNS Update Preferences"
+msgstr "تفضيلات بريمج تحديث DNS الحر"
+
+#: ../liberdns.py:97
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: ../liberdns.py:98
+msgid "Save"
+msgstr "حفظ"
+
+#: ../liberdns.py:103
+msgid "Auto start"
+msgstr "التشغيل التلقائي"
+
+#: ../liberdns.py:106
+msgid "Show notifications"
+msgstr "إظهار التنبيهات"
+
+#: ../liberdns.py:110
+msgid "User name:"
+msgstr "إسم المستخدم :"
+
+#: ../liberdns.py:115
+msgid "Password:"
+msgstr "كلمة المرور :"
+
+#: ../liberdns.py:121
+msgid "Nerwork Name:"
+msgstr "إسم الشبكة :"
+
+#: ../liberdns.py:126
+msgid "Time:"
+msgstr "الوقت :"
+
+#: ../liberdns.py:130
+msgid "Minutes"
+msgstr "دقيقة"
+
+#: ../liberdns.py:152 ../liberdns.py:159
+msgid "Liber DNS Update"
+msgstr "تحديث DNS الحر"
+
+#: ../liberdns.py:161
+msgid "Liber DNS Update...."
+msgstr "تحديث DNS الحر"
+
+#: ../liberdns.py:191
+msgid "Update Now"
+msgstr "حدث الآن"
+
+#: ../liberdns.py:215
+msgid "Liber NDS update Failed!"
+msgstr "فشل تحديث DNS الحر!"
+
+#: ../liberdns.py:217
+msgid "Set your Configuration frist"
+msgstr "قم بتهيئة البرنامج أولاً"
+
+#: ../liberdns.py:227
+msgid "Last stat"
+msgstr "الحالة الأخيرة"

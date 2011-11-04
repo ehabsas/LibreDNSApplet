@@ -1,0 +1,8 @@
+#!/usr/bin/env python2
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+import sys, os, os.path
+from liberdns import main
+fn=os.path.expanduser('~/.liberdns-up-applet-skip-auto')
+if '--auto' in sys.argv and os.path.exists(fn): exit(0)
+main()

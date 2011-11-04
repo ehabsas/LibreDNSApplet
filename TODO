@@ -1,0 +1,11 @@
+بسم الله الرحمن الرحيم
+
+
+1- Create a verification service: http://www.opendns.com/welcome
+3- Change Notifications:
+    White :==> No Information.
+    Green :==> information correct, Online.
+    Yellow :==> problems, wrong information etc ...
+    Red color :==> Off Line, exit.
+4- Silent mode.
+5- Translate urllib2 errors.
